@@ -32,11 +32,9 @@ soup = BeautifulSoup(page, 'html.parser')
 #print (name)
 #print name_box[2].find('strong').string
 
-webbrowser.open(quote_page)
+#webbrowser.open(quote_page)
 
-
-
-#name_box = soup.find('div',attrs={"class":"rc"})
+name_box = soup.find_all("div", attrs={ "class" : "rc" })
 #names = name_box.findAll('h3')
-#for name2 in names
-#    print(name2)
+#for name in name_box
+print (name_box)
