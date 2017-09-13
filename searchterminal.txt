@@ -1,0 +1,51 @@
+Script started on Wednesday 13 September 2017 05:51:25 AM IST
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mlsgit remote -v[6Plogremote[3Plogcd recipes..[Kgit push origin2 master[Kremote -v[K add origin2 git@github.com:Shubham1304/reflections.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K -vadd origin2add remote[C[C[C[C[C[C[C[C[9Premote -vorigin[C[C[C[6Plogpush origin masterls[Kgit push origin2 master[8Patom paneer.txt~[2Pcat paneer.txtls[Ktouch paneer.txt[2Pcat[C[C[C[C[C[C[C[C[C[C[C[2@touch[C[C[C[C[C[C[C[C[C[C[Cls[Kcat paneer.txtatom paneer.txt~[Kgit push origin2 masterls[Kgit push origin masterlog[Korigin -vremote[C[C[Cadd remote origin2remote add[C[C[C[C[C[C[C[C-v[K[K add origin2 git@github.com:Shubham1304/reflections.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K -v[5Ppush origin2 mastercd ..[Krecipes[3Pgit logremote[3Plogremote -vls[K[Klsgit remote -v[6Plogremote -vls[K[Kpythin3 [K[K[K[Kon [K3 searc[K[Kch [Kfromterminal.py
+python3: can't open file 'seachfromterminal.py': [Errno 2] No such file or directory
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mls
+main2.py  main3.py  main.py  README.md	searchfromterminal.py  searchterminal.txt
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mlspython3 seachfromterminal.py[Crchfromterminal.py
+  File "searchfromterminal.py", line 40
+    print name_box
+    ^
+IndentationError: Missing parentheses in call to 'print'
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+  File "searchfromterminal.py", line 40
+    print (name_box)
+    ^
+IndentationError: unexpected indent
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+Enter search querygames
+None
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+Enter search querygames
+None
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+Enter search querygames
+[]
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+  File "searchfromterminal.py", line 39
+    for name in name_box
+                       ^
+SyntaxError: invalid syntax
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py
+Enter search querygames
+[]
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mpython3 searchfromterminal.py[Kpython3 searchfromterminal.py
+Enter search querygames
+[]
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mgit add[K[K[Kstatus
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   searchfromterminal.py[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31msearchterminal.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[0;35mshubham[0;32m (master *)[0;34m webscrapping $ [0mgit add *
+[0;35mshubham[0;32m (master +)[0;34m webscrapping $ [0mgit commit -m [C " " [1@T[1@h[1@e[1@ [1@o[1@n[1@e[1@ [1@h[1P[1@w[1@h[1@e[1@r[1@e[1@ [1@[[1@][1P[1P[1@i[1@m[1P[1P[1@i[1@ [
